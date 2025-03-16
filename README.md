@@ -9,7 +9,7 @@ My focus areas include **Machine Learning, Artificial Intelligence, and Full Sta
 
 ## 🛠 Tech Stack  
 - **Programming**: Java, Python, PHP  
-- **Web Development**: HTML, CSS, JS, Steamlit
+- **Web Development**: HTML, CSS, JS, Steamlit, h2o wave app
 - **Machine Learning & AI**: TensorFlow, Keras, scikit-learn, OpenCV
 - **Databases**: MySQL  
 - **Tools & Platforms**: Linux, Docker, Git, Google Colab  
