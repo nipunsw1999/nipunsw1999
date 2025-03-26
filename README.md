@@ -14,9 +14,5 @@ My focus areas include **Machine Learning, Artificial Intelligence, and Full Sta
 - **Databases**: MySQL  
 - **Tools & Platforms**: Linux, AWS, Docker, Git, Google Colab  
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nipunsw1999&theme=default&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nipunsw1999&theme=default&hide_border=false)  
-
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nipun-weerasinghe-8ba8561b4)  
