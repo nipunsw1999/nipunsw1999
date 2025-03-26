@@ -12,7 +12,7 @@ My focus areas include **Machine Learning, Artificial Intelligence, and Full Sta
 - **Web Development**: HTML, CSS, JS, Steamlit, h2o wave app
 - **Machine Learning & AI**: TensorFlow, Keras, scikit-learn, OpenCV
 - **Databases**: MySQL  
-- **Tools & Platforms**: Linux, Docker, Git, Google Colab  
+- **Tools & Platforms**: Linux, AWS, Docker, Git, Google Colab  
 
 ## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nipunsw1999&theme=default&hide_border=false&include_all_commits=true&count_private=true)  
