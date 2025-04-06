@@ -1,3 +1,5 @@
+![Beige   Black Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/a658bc73-5358-43bb-a68f-9ee700f6e322)
+
 # 💼 About Me  
 I am an undergraduate student pursuing a **BSc. Hons in Computer Science** at the **Department of Computer Science, University of Jaffna**.  
 My focus areas include **Machine Learning, Artificial Intelligence, and Full Stack Development**.  
