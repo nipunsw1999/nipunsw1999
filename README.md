@@ -338,16 +338,31 @@ const nipun = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nipunsw1999&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&ring_color=A960FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nipunsw1999&theme=radical&hide_border=true&background=0D1117&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF&sideLabels=A960FF&dates=555555" />
+<a href="https://github.com/nipunsw1999">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nipunsw1999&theme=radical" />
+</a>
+<a href="https://github.com/nipunsw1999">
+<img width="49%" src="https://streak-stats.demolab.com/?user=nipunsw1999&theme=radical&hide_border=true&background=0D1117&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF&sideLabels=A960FF&dates=555555" />
+</a>
 
 <br/>
 
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunsw1999&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=c9d1d9" />
+<a href="https://github.com/nipunsw1999">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nipunsw1999&theme=radical" />
+</a>
+<a href="https://github.com/nipunsw1999">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nipunsw1999&theme=radical" />
+</a>
 
 <br/>
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=nipunsw1999&theme=react-dark&hide_border=true&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&area=true&area_color=A960FF" />
+<a href="https://github.com/nipunsw1999">
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nipunsw1999&theme=radical" />
+</a>
+
+<br/>
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=nipunsw1999&theme=react-dark&hide_border=true&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&area=true&area_color=A960FF&custom_title=nipunsw1999's%20Contribution%20Graph" />
 
 </div>
 
