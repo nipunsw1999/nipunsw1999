@@ -129,6 +129,20 @@ const nipun = {
 </p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">Build Basic GANs</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
+</p>
+<p align="center">Generative Adversarial Networks project building DCGANs, WGANs, and conditional GANs from scratch for realistic image generation and style transfer.</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark&perline=5" alt="Tech"/>
+</p>
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 </a>
 
