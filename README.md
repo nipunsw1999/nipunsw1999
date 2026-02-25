@@ -1,8 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Nipun%20Weerasinghe&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Innovator&descAlignY=60&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=transparent&height=120&section=header)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%E2%9C%A8+Building+Intelligent+Systems+with+AI;%F0%9F%94%AC+Engineering+Intern+%40+H2O.ai;%F0%9F%8C%8F+Making+AI+Accessible+to+Enterprises;%F0%9F%8E%AF+Turning+Data+into+Decisions" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=60&duration=3000&pause=500&color=A960FF&center=true&vCenter=true&width=700&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Nipun+Weerasinghe!" alt="Header Typing"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=c9d1d9&center=true&vCenter=true&repeat=true&width=650&height=45&lines=AI+%2F+ML+Engineer+%E2%80%A2+Full+Stack+Developer+%E2%80%A2+Innovator" alt="Subtitle"/>
+
+<br/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%E2%9C%A8+Building+Intelligent+Systems+with+AI;%F0%9F%94%AC+Engineering+Intern+%40+H2O.ai;%F0%9F%8C%8F+Making+AI+Accessible+to+Enterprises;%F0%9F%8E%AF+Turning+Data+into+Decisions" alt="Typing SVG" /></a>
 
 <br/>
 
