@@ -1,6 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=transparent&height=120&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&animation=twinkling)
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=60&duration=3000&pause=500&color=A960FF&center=true&vCenter=true&width=700&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Nipun+Weerasinghe!" alt="Header Typing"/>
 
