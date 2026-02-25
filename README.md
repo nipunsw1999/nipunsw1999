@@ -328,7 +328,7 @@ const nipun = {
 
 <br/>
 
-<img src="https://img.shields.io/badge/Total_Certifications-21-A960FF?style=for-the-badge&labelColor=1a1a2e" alt="Total Certs"/>
+<a href="https://www.linkedin.com/in/nipunweerasinghe/details/certifications/"><img src="https://img.shields.io/badge/Total_Certifications-21-A960FF?style=for-the-badge&labelColor=1a1a2e" alt="Total Certs"/></a>
 
 </div>
 
