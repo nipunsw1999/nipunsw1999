@@ -370,6 +370,9 @@ const nipun = {
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/⚡_Stats_&_Streaks-555?style=flat-square&labelColor=1a1a2e&color=A960FF" />
+<br/><br/>
+
 <a href="https://github.com/nipunsw1999">
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nipunsw1999&theme=radical" />
 </a>
@@ -377,7 +380,10 @@ const nipun = {
 <img width="49%" src="https://streak-stats.demolab.com/?user=nipunsw1999&theme=radical&hide_border=true&background=0D1117&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF&sideLabels=A960FF&dates=555555" />
 </a>
 
-<br/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/💻_Top_Languages-555?style=flat-square&labelColor=1a1a2e&color=A960FF" />
+<br/><br/>
 
 <a href="https://github.com/nipunsw1999">
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nipunsw1999&theme=radical" />
@@ -386,13 +392,19 @@ const nipun = {
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nipunsw1999&theme=radical" />
 </a>
 
-<br/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📈_Profile_Summary-555?style=flat-square&labelColor=1a1a2e&color=A960FF" />
+<br/><br/>
 
 <a href="https://github.com/nipunsw1999">
 <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nipunsw1999&theme=radical" />
 </a>
 
-<br/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🔥_Contribution_Graph-555?style=flat-square&labelColor=1a1a2e&color=A960FF" />
+<br/><br/>
 
 <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=nipunsw1999&theme=react-dark&hide_border=true&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&area=true&area_color=A960FF&custom_title=nipunsw1999's%20Contribution%20Graph" />
 
