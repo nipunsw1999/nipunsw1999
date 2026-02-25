@@ -89,7 +89,7 @@ const nipun = {
 <td width="50%" valign="top">
 <h3 align="center">LLM-based Sinhala Handwritten OCR</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
 </p>
 <p align="center">Advanced OCR system for Sinhala handwritten documents using custom datasets, CNN character recognition, and LLM-powered post-processing for enhanced accuracy.</p>
 <p align="center">
