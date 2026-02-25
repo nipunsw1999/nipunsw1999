@@ -170,8 +170,15 @@ const nipun = {
 <a href="mailto:nipunsw1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 &nbsp;
 <a href="https://github.com/nipunsw1999"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+&nbsp;
+<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 
-<br/><br/>
+<br/>
+
+### HackerRank Achievements
+![HackerRank](https://github.com/user-attachments/assets/d74b486d-0481-4283-9af8-d9f4ab464ec8)
+
+<br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
