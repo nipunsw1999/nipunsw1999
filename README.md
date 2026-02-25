@@ -140,6 +140,200 @@ const nipun = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="28"> &nbsp;Licenses & Certifications
+
+<div align="center">
+
+<details>
+<summary><img src="https://img.shields.io/badge/H2O.ai-FFBE00?style=for-the-badge&logo=h2o.ai&logoColor=black" alt="H2O.ai"/> &nbsp; <b>3 Certifications</b></summary>
+<br/>
+<table>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Jun_2025-A960FF?style=flat-square" />
+</td>
+<td><b>H2O.ai Agents : From Theory to Practice</b></td>
+<td><code>Credential ID: K8M9DEYY24YO</code></td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Feb_2025-A960FF?style=flat-square" />
+</td>
+<td><b>Data Prep for H2O Driverless AI</b></td>
+<td></td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Oct_2024-A960FF?style=flat-square" />
+</td>
+<td><b>Large Language Models - Level 1</b></td>
+<td></td>
+</tr>
+</table>
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/DeepLearning.AI-0056D2?style=for-the-badge&logoColor=white" alt="DeepLearning.AI"/> &nbsp; <b>5 Certifications</b></summary>
+<br/>
+<table>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Aug_2024-A960FF?style=flat-square" />
+</td>
+<td><b>Building Generative AI Applications with Gradio</b></td>
+<td><code>Gradio</code> <code>Hugging Face</code> <code>Generative AI</code></td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/May_2024-A960FF?style=flat-square" />
+</td>
+<td><b>Machine Learning in Production</b></td>
+<td><code>Credential ID: KXDPUMC2HVC2</code></td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Apr_2024-A960FF?style=flat-square" />
+</td>
+<td><b>Generative Adversarial Networks (GANs) Specialization</b></td>
+<td><code>Credential ID: SUA5FANH6ZZS</code></td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Apr_2024-A960FF?style=flat-square" />
+</td>
+<td><b>Apply Generative Adversarial Networks (GANs)</b></td>
+<td><code>Credential ID: 6H75AV2GQLQL</code></td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Apr_2024-A960FF?style=flat-square" />
+</td>
+<td><b>Build Better Generative Adversarial Networks (GANs)</b></td>
+<td><code>GANs</code></td>
+</tr>
+</table>
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/> &nbsp; <b>5 Certifications</b></summary>
+<br/>
+<table>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Jun_2024-A960FF?style=flat-square" />
+</td>
+<td><b>Getting Started with Git and GitHub</b></td>
+<td><code>Credential ID: 3UQVQM4JRREP</code></td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/May_2024-A960FF?style=flat-square" />
+</td>
+<td><b>Introduction to Web Development with HTML, CSS, JavaScript</b></td>
+<td><code>Credential ID: 7CFY5ZQXP5M3</code></td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/May_2024-A960FF?style=flat-square" />
+</td>
+<td><b>Introduction to Cloud Computing</b></td>
+<td><code>Credential ID: P25D3PZVB7FL</code></td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Mar_2024-A960FF?style=flat-square" />
+</td>
+<td><b>Deep Neural Networks with PyTorch</b></td>
+<td><code>Deep Learning</code> <code>PyTorch</code></td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Feb_2022-A960FF?style=flat-square" />
+</td>
+<td><b>AI for Everyone: Master the Basics</b></td>
+<td><code>Credential ID: fb61059f753f</code></td>
+</tr>
+</table>
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/Linux_Foundation-003366?style=for-the-badge&logo=linux-foundation&logoColor=white" alt="Linux Foundation"/> &nbsp; <b>5 Certifications</b></summary>
+<br/>
+<table>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Apr_2024-A960FF?style=flat-square" />
+</td>
+<td><b>Open Source Software Development, Linux and Git Specialization</b></td>
+<td><code>Credential ID: FXRZANSZVQ2V</code></td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Apr_2024-A960FF?style=flat-square" />
+</td>
+<td><b>Linux Tools for Developers</b></td>
+<td><code>Credential ID: NR845FPEE2AD</code></td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Apr_2024-A960FF?style=flat-square" />
+</td>
+<td><b>Linux for Developers</b></td>
+<td><code>Credential ID: 9Z985HKKX3JG</code></td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Mar_2024-A960FF?style=flat-square" />
+</td>
+<td><b>Using Git for Distributed Development</b></td>
+<td><code>Credential ID: VB25PPH97ZPQ</code></td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Mar_2024-A960FF?style=flat-square" />
+</td>
+<td><b>Open Source Software Development Methods</b></td>
+<td><code>Credential ID: JJ639GNN3P86</code></td>
+</tr>
+</table>
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/Others-555555?style=for-the-badge" alt="Others"/> &nbsp; <b>3 Certifications</b></summary>
+<br/>
+<table>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/May_2025-A960FF?style=flat-square" />
+</td>
+<td><b>Harassment Prevention: Worldwide Non-Supervisor</b></td>
+<td><img src="https://img.shields.io/badge/EasyLlama-FF6B6B?style=flat-square" /></td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/May_2024-A960FF?style=flat-square" />
+</td>
+<td><b>Web Development with HTML, CSS, JavaScript Essentials</b></td>
+<td><img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white" /></td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Feb_2024-A960FF?style=flat-square" />
+</td>
+<td><b>Programming in Python - Python for Beginners</b></td>
+<td><img src="https://img.shields.io/badge/Univ._of_Moratuwa-800000?style=flat-square" /></td>
+</tr>
+</table>
+</details>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Total_Certifications-21-A960FF?style=for-the-badge&labelColor=1a1a2e" alt="Total Certs"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
 <div align="center">
