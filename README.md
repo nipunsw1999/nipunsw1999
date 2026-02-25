@@ -35,7 +35,7 @@ currently_working_on: AutoML platform development & ML model management tools
 fun_fact: Led Sri Lanka's first IEEE Computational Intelligence Student Branch Chapter
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunsw1999&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117" width="280"/>
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320"/>
 
 - **Engineering Intern at [H2O.ai](https://h2o.ai)** — contributing to AutoML platforms, building internal ML model management & monitoring tools
 - **IEEE CIS SBC UOJ Chairperson** — won "Emerging Student Branch Chapter" award
