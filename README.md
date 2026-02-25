@@ -22,7 +22,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
+<div align="center">
+<img src="https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB_ABOUT_ME-A960FF?style=for-the-badge&labelColor=1a1a2e" alt="About Me"/>
+</div>
+
+<br/>
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340"/>
 
@@ -46,7 +50,9 @@ const nipun = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Tech Arsenal
+<div align="center">
+<img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_TECH_ARSENAL-A960FF?style=for-the-badge&labelColor=1a1a2e" alt="Tech Arsenal"/>
+</div>
 
 <div align="center">
 
@@ -79,7 +85,9 @@ const nipun = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Featured Projects
+<div align="center">
+<img src="https://img.shields.io/badge/%F0%9F%9A%80_FEATURED_PROJECTS-A960FF?style=for-the-badge&labelColor=1a1a2e" alt="Featured Projects"/>
+</div>
 
 <div align="center">
 
@@ -154,7 +162,9 @@ const nipun = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="28"> &nbsp;Licenses & Certifications
+<div align="center">
+<img src="https://img.shields.io/badge/%F0%9F%8E%93_LICENSES_%26_CERTIFICATIONS-A960FF?style=for-the-badge&labelColor=1a1a2e" alt="Certifications"/>
+</div>
 
 <div align="center">
 
@@ -348,7 +358,15 @@ const nipun = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> &nbsp;GitHub Analytics
+<div align="center">
+
+<img src="https://img.shields.io/badge/%F0%9F%93%8A_GITHUB_ANALYTICS-A960FF?style=for-the-badge&labelColor=1a1a2e" alt="GitHub Analytics"/>
+
+<br/><br/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=A960FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Commits+%E2%80%A2+Contributions+%E2%80%A2+Languages+%E2%80%A2+Streaks" alt="Typing SVG" /></a>
+
+</div>
 
 <div align="center">
 
@@ -382,7 +400,9 @@ const nipun = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="48"> &nbsp;Let's Connect
+<div align="center">
+<img src="https://img.shields.io/badge/%F0%9F%A4%9D_LET'S_CONNECT-A960FF?style=for-the-badge&labelColor=1a1a2e" alt="Let's Connect"/>
+</div>
 
 <div align="center">
 
