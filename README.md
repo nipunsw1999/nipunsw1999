@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Nipun%20Weerasinghe&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=22&descAlignY=55" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%94%AC+Engineering+Intern+%40+H2O.ai;%E2%9C%A8+Building+Intelligent+Systems+with+AI;%F0%9F%8E%AF+Turning+Data+into+Decisions;%F0%9F%8C%8F+Making+AI+Accessible+to+Enterprises" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%94%AC+Software+Engineer+%40+H2O.ai;%E2%9C%A8+Building+Intelligent+Systems+with+AI;%F0%9F%8E%AF+Turning+Data+into+Decisions;%F0%9F%8C%8F+Making+AI+Accessible+to+Enterprises" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 ```js
 const nipun = {
-  role: "Engineering Intern @ H2O.ai",
+  role: "Software Engineer @ H2O.ai",
   location: "Colombo, Sri Lanka",
   education: "BSc Hons in Computer Science",
   university: "University of Jaffna",
